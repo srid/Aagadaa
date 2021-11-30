@@ -1,6 +1,6 @@
-# PLFA notes
+# Aagadaa
 
-Studyin https://plfa.github.io
+Studyin https://plfa.github.io (Programming Language Foundations in Agda)
 
 ## Setup
 
