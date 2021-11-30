@@ -2,10 +2,10 @@
 # https://github.com/srid/emanote/blob/master/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Aagadaa
 
 template:
-  theme: red
+  theme: purple
   sidebar:
     collapsed: false
   urlStrategy: pretty
