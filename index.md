@@ -1,5 +1,11 @@
-# Emanote Template
+# PLFA notes
 
-A Git repo for users to get started with [Emanote], with GitHub Pages deployment. See [[README|README]].
+Studyin https://plfa.github.io
 
-[Emanote]: https://note.ema.srid.ca/
+## Setup
+
+- [ ] macOS setup or NixOS setup
+  - macOS
+    - `cabal install agda`
+  - NixOS
+    - Is there a Nix project template?
